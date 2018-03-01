@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "756163078707",
+    "firebase_url": "https://eministry-77638.firebaseio.com",
+    "project_id": "eministry-77638",
+    "storage_bucket": "eministry-77638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756163078707:android:246eb1a74c4dc783",
+        "android_client_info": {
+          "package_name": "com.eministry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756163078707-c2c7rp0pdfucemjpnf46keldbmira23n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA38I6DPByQwXouY7SjA0meiN_tdng4DvY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
